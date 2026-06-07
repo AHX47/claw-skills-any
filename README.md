@@ -1,4 +1,6 @@
-# Skills — Coding, Agentic, Automation
+# Skills — any thing ...
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/626bb674-2214-4782-a4f1-90b93383326d" />
+
 
 ## 📁 Structure
 
