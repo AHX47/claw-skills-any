@@ -3,20 +3,50 @@
 ## 📁 Structure
 
 ```
-skills-extra/
-│
-├── coding/
-│   ├── SKILL.md       ← Core coding principles & best practices
-│   └── PATTERNS.md    ← Python / JS / React / DB patterns with code
-│
-├── agentic/
-│   ├── SKILL.md       ← Agent design: ReAct, planning, memory, guardrails
-│   ├── PATTERNS.md    ← ReAct loop, task planner, memory, multi-agent, tools
-│   └── FRAMEWORKS.md  ← LangChain, CrewAI, LangGraph, AutoGen, Anthropic API
-│
-└── automation/
-    ├── SKILL.md       ← Automation principles, file/web/API/pipeline patterns
-    └── RECIPES.md     ← CI/CD, Docker, Makefile, cron, systemd, scripts
+claw-skills-any/
+├── .gitignore
+├── README.md
+├── agentic/                 # Agent design patterns & frameworks
+│   ├── SKILL.md             # Core agentic principles
+│   ├── PATTERNS.md          # ReAct, planning, memory, multi-agent
+│   ├── FRAMEWORKS.md        # LangChain, CrewAI, LangGraph, AutoGen
+│   └── a
+├── ai/                      # AI/ML specific skills
+│   ├── dataset-generation-skill.md
+│   ├── model-training-skill.md
+│   ├── ocr-vision-3d-skill.md
+│   └── rag-memory-skill.md
+├── architecture/            # System architecture skills
+│   └── strategic-architecture-skill.md
+├── automation/              # Automation & scripting
+│   ├── SKILL.md             # Core automation principles
+│   ├── RECIPES.md           # CI/CD, Docker, Makefile, cron
+│   ├── scraping-deepsearch-report-skill.md
+│   ├── social-media-automation-skill.md
+│   └── a
+├── backend/                 # Backend development
+│   ├── backend-design-skill.md
+│   └── database-security-skill.md
+├── coding/                  # General coding practices
+│   ├── SKILL.md             # Core coding principles
+│   ├── PATTERNS.md          # Language patterns & security
+│   └── a
+├── core/                    # Core language skills
+│   ├── flet-design-skill.md
+│   ├── java-skill.md
+│   ├── python-skill.md
+│   └── react-nodejs-skill.md
+├── frontend/                # Frontend development
+│   └── frameworks-skill.md
+├── security/                # Security-focused skills
+│   ├── security-research-skill.md
+│   └── supply-chain-security-skill.md
+├── systems/                 # Systems programming
+│   ├── assembly-skill.md
+│   └── linux-debug-skill.md
+└── tools/                   # Tooling & integration
+    ├── thinking-integration-agi-skill.md
+    └── a
 ```
 
 ---
